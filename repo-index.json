@@ -1,0 +1,43 @@
+{
+  "repo": "deskgram-2-telegram-automation",
+  "language": "ru",
+  "role": "hub",
+  "links": {
+    "site": "https://deskgram2.com/",
+    "bot": "https://t.me/DG2welcomebot",
+    "web_preview": "https://deskgram2.com/web-preview",
+    "advantages": "https://deskgram2.com/advantages"
+  },
+  "modules": [
+    {
+      "module": "neuro_commenting",
+      "repo": "telegram-neuro-commenting-deskgram",
+      "angle": "AI-комментирование постов в Telegram",
+      "url": "https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram"
+    },
+    {
+      "module": "spam_pm",
+      "repo": "telegram-direct-messaging-deskgram",
+      "angle": "массовая отправка сообщений в личные чаты Telegram",
+      "url": "https://github.com/Deskgram-2/telegram-direct-messaging-deskgram"
+    },
+    {
+      "module": "collect_audience",
+      "repo": "telegram-audience-parser-deskgram",
+      "angle": "сбор аудитории из Telegram-групп и чатов",
+      "url": "https://github.com/Deskgram-2/telegram-audience-parser-deskgram"
+    },
+    {
+      "module": "invite",
+      "repo": "telegram-invite-tool-deskgram",
+      "angle": "массовое приглашение пользователей в группы и каналы",
+      "url": "https://github.com/Deskgram-2/telegram-invite-tool-deskgram"
+    },
+    {
+      "module": "proxy_manager",
+      "repo": "telegram-proxy-manager-deskgram",
+      "angle": "управление прокси для Telegram-аккаунтов",
+      "url": "https://github.com/Deskgram-2/telegram-proxy-manager-deskgram"
+    }
+  ]
+}
