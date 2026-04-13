@@ -41,12 +41,26 @@ Deskgram 2 — это платформа для автоматизации де�
 ![Proxy](assets/screenshots/proxy__table__ru.png)
 ![Settings](assets/screenshots/settings__main__ru.png)
 
-## Ключевые гайды первой волны
+## Ключевые гайды по сценариям
 
 - [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
+- [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram)
 - [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+
+## Инфраструктурные и системные гайды
+
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
+- [Настройки автоматизации](https://github.com/Deskgram-2/telegram-automation-settings-deskgram)
+
+## Готовые связки по шагам
+
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram) -> [Прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram) -> [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram) -> [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram) -> [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram) -> [Прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram) -> [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram) -> [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Настройки автоматизации](https://github.com/Deskgram-2/telegram-automation-settings-deskgram) -> [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram) -> [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 - [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
 
 ## Быстрый старт
@@ -60,12 +74,13 @@ Deskgram 2 — это платформа для автоматизации де�
 
 ## Рекомендуемый путь по модулям
 
-1. Панель аккаунтов — завести и проверить аккаунты.
-2. Прокси — подготовить рабочий пул.
-3. Настройки — подключить ключи и системные параметры.
-4. Сбор аудитории — собрать базу пользователей.
-5. Рассылка в ЛС или Инвайт — использовать базу в сценарии роста.
-6. Нейрокомментинг — подключить AI-активности для каналов.
+1. [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram) — завести и проверить аккаунты.
+2. [Прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram) — подготовить рабочий пул.
+3. [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram) — подключить ключи и системные параметры.
+4. [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram) или [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram) — подготовить базу и окружение.
+5. [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram) или [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram) — использовать базу в сценарии роста.
+6. [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram) — подключить AI-активности для каналов.
+7. [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram) — контролировать статусы и результаты.
 
 ## FAQ
 
