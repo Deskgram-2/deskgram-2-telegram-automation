@@ -85,6 +85,28 @@ Deskgram 2 — это платформа для автоматизации де�
 - [Прогрев аккаунтов](https://github.com/Deskgram-2/telegram-account-warmup-deskgram) -> [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram) -> [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram) -> [Нейрочаттинг](https://github.com/Deskgram-2/telegram-neuro-chatting-deskgram)
 - [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram) -> [Создание каналов и групп](https://github.com/Deskgram-2/telegram-channel-creator-deskgram) -> [Создание ботов](https://github.com/Deskgram-2/telegram-bot-creator-deskgram) -> [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
 
+## Как выбрать первый модуль под задачу
+
+| Если у вас такая цель | С чего лучше начать |
+|---|---|
+| Нужна база пользователей | [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram) |
+| Нужен личный outreach | [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram) |
+| Нужен рост группы или канала | [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram) |
+| Нужна AI-активность под постами | [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram) |
+| Нужна подготовка аккаунтов и среды | [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram) + [Прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram) |
+| Нужен stories-сценарий | [Отметки в сторис](https://github.com/Deskgram-2/telegram-story-mentions-deskgram) или [Просмотр сторис](https://github.com/Deskgram-2/telegram-story-viewer-deskgram) |
+| Нужна работа с каналами как контентной сеткой | [Рассылка постов по каналам](https://github.com/Deskgram-2/telegram-channel-posting-deskgram) |
+
+## Что выбрать: похожие сценарии без путаницы
+
+| Если выбор между этими задачами | Что лучше брать |
+|---|---|
+| Личный контакт или рост сообщества | [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram) для диалога, [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram) для роста группы |
+| Поиск площадок или сбор пользователей | [Поиск каналов и групп](https://github.com/Deskgram-2/telegram-channel-search-deskgram) для discovery, [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram) для базы пользователей |
+| Комментирование с AI или более шаблонный comments-flow | [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram) для более живого текста, [Комментирование](https://github.com/Deskgram-2/telegram-comment-campaigns-deskgram) для более прямой comments-кампании |
+| Публикация stories или просмотры stories | [Отметки в сторис](https://github.com/Deskgram-2/telegram-story-mentions-deskgram) для публикации, [Просмотр сторис](https://github.com/Deskgram-2/telegram-story-viewer-deskgram) для activity-слоя |
+| Массовые подписки или инвайт | [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram) для подключения своих аккаунтов к среде, [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram) для добавления внешних пользователей |
+
 ## Быстрый старт
 
 1. Добавьте Telegram-аккаунты в систему.
