@@ -107,6 +107,15 @@ Deskgram 2 — это платформа для автоматизации де�
 | Публикация stories или просмотры stories | [Отметки в сторис](https://github.com/Deskgram-2/telegram-story-mentions-deskgram) для публикации, [Просмотр сторис](https://github.com/Deskgram-2/telegram-story-viewer-deskgram) для activity-слоя |
 | Массовые подписки или инвайт | [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram) для подключения своих аккаунтов к среде, [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram) для добавления внешних пользователей |
 
+## Что выбрать для первого результата
+
+| Если вы хотите получить первый практический результат | Лучше идти так |
+|---|---|
+| Быстро собрать базу и начать личный outreach | [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram) -> [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram) |
+| Зайти в growth через сообщества и окружение | [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram) -> [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram) |
+| Получить AI-активность и engagement под постами | [Настройки автоматизации](https://github.com/Deskgram-2/telegram-automation-settings-deskgram) -> [Нейрокомментинг](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram) |
+| Сначала собрать базовую инфраструктуру без активных запусков | [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram) -> [Прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram) -> [Настройки автоматизации](https://github.com/Deskgram-2/telegram-automation-settings-deskgram) |
+
 ## Быстрый старт
 
 1. Добавьте Telegram-аккаунты в систему.
@@ -143,6 +152,20 @@ Deskgram 2 — это платформа для автоматизации де�
 ### Что есть в этом репозитории?
 
 Это обзорная точка входа в Deskgram 2. Здесь собраны базовые сценарии использования, краткое описание платформы и ссылки на отдельные гайды по ключевым модулям.
+
+## FAQ по стартовым сценариям
+
+### С чего лучше начинать, если еще нет базы пользователей?
+
+Чаще всего лучший путь такой: сначала подготовить аккаунты и инфраструктуру, потом выбрать либо [сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), либо [массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram), в зависимости от того, нужен ли вам сначала список пользователей или среда для дальнейшей активности.
+
+### Какой маршрут обычно дает самый быстрый первый результат?
+
+Обычно самый быстрый прикладной результат дает связка [сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram) -> [рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), потому что она быстрее всего превращает подготовленную базу в измеримый outreach-сценарий.
+
+### Если AI пока не нужен, Deskgram 2 все равно подходит?
+
+Да. AI — это только часть системы. Базовые маршруты вроде инфраструктуры, парсинга, инвайта, подписок и обычной рассылки спокойно работают и без AI-слоя.
 
 ## Полезные ссылки
 
