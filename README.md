@@ -1,15 +1,15 @@
-# Deskgram 2 для Telegram-автоматизации
+﻿# Deskgram 2 для Telegram-автоматизации
 
 ![Deskgram 2 overview](assets/screenshots/hub__overview__ru.png)
 
 Deskgram 2 — это платформа для автоматизации действий в Telegram: управления аккаунтами, массовых коммуникаций, AI-сценариев, парсинга аудитории, инвайта и инфраструктурной подготовки рабочих сеток аккаунтов. Этот репозиторий играет роль главного хаба и ведет в узкие гайды по конкретным модулям.
 
-[Официальный сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview) · [Преимущества](https://deskgram2.com/advantages)
+[Официальный сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru) · [Преимущества](https://deskgram2.com/advantages)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome&lang=ru)
 
 Если хотите сначала понять, подходит ли вам этот сценарий, откройте веб-превью: так проще оценить интерфейс, сравнить модуль с соседними разделами и только потом переходить к установке и настройке.
 
@@ -185,5 +185,6 @@ Deskgram 2 — это платформа для автоматизации де�
 
 - [Сайт Deskgram 2](https://deskgram2.com/)
 - [Telegram-бот Deskgram 2](https://t.me/DG2welcomebot)
-- [Web preview](https://deskgram2.com/web-preview)
+- [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 - [Преимущества Deskgram 2](https://deskgram2.com/advantages)
+
